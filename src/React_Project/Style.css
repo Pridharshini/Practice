@@ -1,0 +1,87 @@
+.logo
+{
+    position: absolute;
+    top:9%;
+    left:40%;
+    height:19%;
+    width:15%;
+}
+.app
+{
+    position: absolute;
+    top:29%;
+    left:43%;
+    font-size:200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.login
+{
+    position: absolute;
+    top:40%;
+    left:43%;
+    height:9%;
+    width:9%;
+}
+.box
+{
+    border-color: black;
+}
+.pwd
+{
+     position: absolute;
+     top:62%;
+     left:47%;
+   border-color: black;
+}
+.psd
+{
+    position: absolute;
+    top:60%;
+    left:40.5%;
+    
+
+}
+.ph
+{
+    position: absolute;
+    top:53%;
+    left:39%;
+
+}
+.phone
+{
+    position: absolute;
+    top:55%;
+    left:47%;
+  border-color: black;
+}
+.cont
+{
+    position: absolute;
+    top:67%;
+    left:47%;
+    color: blue;
+    text-decoration: underline;
+
+}
+.forgot
+{
+    position: absolute;
+    top:73.5%;
+    left:44.5%;
+    color: crimson;
+}
+.new
+{
+    position: absolute;
+    top:81%;
+    left:40%;
+}
+.sign
+{
+    position: absolute;
+    top:81%;
+    left:50%;
+    color:rgb(6, 174, 174);
+}
